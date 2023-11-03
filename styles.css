@@ -16,7 +16,10 @@
     border-radius: 10px;
     background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
 }
-
+.client-card{
+    margin-top: -130px;
+    margin-left: -100px;
+}
 .footer-color {
     background: linear-gradient(270deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 137, 56, 0.10) 100%);
 }
