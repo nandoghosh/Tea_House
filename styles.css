@@ -1,0 +1,10 @@
+.banner-btn{
+    border-radius: 10px;
+    background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+}
+.star{
+    margin: -100px;
+    z-index: 2;
+    z-index: 1;
+    background-color: #ca1818;
+}
